@@ -23,3 +23,6 @@ This project monitors garbage bin levels using sensors and provides automated al
 - Smart Cities
 - Waste Management
 - Municipal Monitoring Systems
+
+# Author
+Mani Sandeep
